@@ -11,7 +11,7 @@ Passionate about transforming raw data into actionable business insights through
 - 📊 Interested in Data Analysis, Data Visualization, Business Intelligence, and Machine Learning
 - 💡 Passionate about solving real-world business problems using data
 - 👯 Looking to collaborate on Data Analytics and Power BI projects
-- 📫 Reach me at: your-email@gmail.com
+- 📫 Reach me at:gattemswathi369@gmail.com
 - 💼 Open to Data Analyst, Business Analyst, and Power BI Developer opportunities
 
 ---
@@ -24,9 +24,15 @@ Passionate about transforming raw data into actionable business insights through
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
-### 💻 Programming
+### 💻 Programming & Web Technologies
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
@@ -71,9 +77,9 @@ Passionate about transforming raw data into actionable business insights through
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/swathi-gattem-4434462ba)
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](YOUR_GITHUB_URL)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/Swathi-Gattem))
 
 ---
 
